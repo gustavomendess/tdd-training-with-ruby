@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d05db57-ef62-433b-b3ee-79985a4c4eec" name="Default Changelist" comment="" />
+    <list default="true" id="7d05db57-ef62-433b-b3ee-79985a4c4eec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spec/mocks/mocks_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/test_doubles/user_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/test_doubles/user_spec.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec/matchers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -36,6 +40,7 @@
       <recent name="C:\Users\gusta\Desktop\ruby-tdd\spec\matchers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gusta\Desktop\tdd-training-with-ruby\spec" />
       <recent name="C:\Users\gusta\Desktop\ruby-tdd\helpers" />
     </key>
   </component>
@@ -51,6 +56,21 @@
       <workItem from="1627081173143" duration="620000" />
       <workItem from="1627119979876" duration="7696000" />
       <workItem from="1629151837372" duration="9088000" />
+      <workItem from="1629215832703" duration="3396000" />
+      <workItem from="1630258686389" duration="97000" />
+      <workItem from="1631371382448" duration="231000" />
+      <workItem from="1632237928387" duration="37000" />
+      <workItem from="1632273092094" duration="5000" />
+      <workItem from="1632279954288" duration="20000" />
+      <workItem from="1633104576039" duration="1082000" />
+      <workItem from="1633484385054" duration="595000" />
+      <workItem from="1635219351921" duration="20000" />
+      <workItem from="1635379074189" duration="2000" />
+      <workItem from="1636059420806" duration="595000" />
+      <workItem from="1636079446505" duration="596000" />
+      <workItem from="1636737094497" duration="629000" />
+      <workItem from="1637034792696" duration="7000" />
+      <workItem from="1643781675683" duration="1274000" />
     </task>
     <servers />
   </component>
