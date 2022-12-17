@@ -1,0 +1,3 @@
+simple project with Ruby/Rails with rspec, using shoulda matchers, VCR, WebMocks, FactoryBot, Faker, Doubles, Devise Login, Testing API's, Mocks, Capybara and more...
+
+
